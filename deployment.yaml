@@ -3,7 +3,7 @@ kind: Deployment
 
 metadata:
   name: my-first-deployment
-  namespace: Anushree
+  namespace: anushree
   labels:
     app: website
 
