@@ -26,7 +26,7 @@ spec:
       containers:
         - name: my-app
 
-          image: 634993259282.dkr.ecr.us-east-2.amazonaws.com/website:v1
+          image: 634993259281.dkr.ecr.us-east-2.amazonaws.com/devops-portfolio:v1
 
           imagePullPolicy: Always
 
